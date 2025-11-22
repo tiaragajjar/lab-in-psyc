@@ -1,0 +1,169 @@
+30.5769 	WARNING 	Font Manager failed to load file /System/Library/PrivateFrameworks/FontServices.framework/Resources/Reserved/PingFangUI.ttc
+30.6725 	WARNING 	Font Manager failed to load file /System/Library/PrivateFrameworks/FontServices.framework/Resources/Reserved/PingFangUI.ttc
+35.4917 	INFO 	Loaded monitor calibration from ['2025_08_07 12:17']
+35.9394 	INFO 	Using renderer 'Apple M2' for graphics
+35.9394 	INFO 	OpenGL version supported by driver is 2..
+36.0400 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x1520988b0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x152098850>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x1520e2830>, multiSample=False, name='window1', numSamples=2, pos=[np.float64(0.0), np.float64(0.0)], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+36.0401 	EXP 	window1: backgroundImage = ''
+36.0401 	EXP 	window1: backgroundFit = 'none'
+36.6375 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+36.6375 	EXP 	window1: recordFrameIntervals = False
+36.9664 	EXP 	window1: recordFrameIntervals = True
+37.8183 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+40.4842 	INFO 	keyboard.Keyboard is using ptb backend.
+40.7673 	INFO 	Created stream for speaker device: MacBook Pro Speakers (1.0)
+40.8343 	EXP 	animal words: status = STARTED
+40.8516 	EXP 	Created start_l_rect = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='start_l_rect', opacity=1, ori=0.0, pos=array([-0.4,  0. ]), size=array([0.5, 0.5]), units='height', vertices=ndarray(...), win=Window(...))
+40.8582 	EXP 	Created start_r_rect = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='start_r_rect', opacity=1, ori=0.0, pos=array([0.4, 0. ]), size=array([0.5, 0.5]), units='height', vertices=ndarray(...), win=Window(...))
+40.9138 	EXP 	Created start_l_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='default.png', interpolate=True, mask=None, maskParams=None, name='start_l_image', opacity=1, ori=0.0, pos=array([-0.4,  0. ]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+40.9244 	EXP 	Created start_r_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='default.png', interpolate=True, mask=None, maskParams=None, name='start_r_image', opacity=1, ori=0.0, pos=array([0.4, 0. ]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+40.9361 	EXP 	Created star = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-4.0, draggable=False, fillColor=array([ 1,  1, -1]), fillColorSpace='rgb', fillRGB=array([ 1,  1, -1]), interpolate=True, lineColor=array([ 1.,  1., -1.]), lineColorSpace='rgb', lineRGB=array([ 1,  1, -1]), lineWidth=1.0, name='star', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.15, 0.15]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+40.9409 	EXP 	Created right_rectangle = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='right_rectangle', opacity=1, ori=0.0, pos=array([0.4, 0. ]), size=array([0.5, 0.5]), units='height', vertices=ndarray(...), win=Window(...))
+40.9453 	EXP 	Created left_rectangle = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='left_rectangle', opacity=1, ori=0.0, pos=array([-0.4,  0. ]), size=array([0.5, 0.5]), units='height', vertices=ndarray(...), win=Window(...))
+40.9545 	EXP 	Created left_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='default.png', interpolate=True, mask=None, maskParams=None, name='left_image', opacity=1, ori=0.0, pos=array([-0.4,  0. ]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+40.9645 	EXP 	Created right_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='default.png', interpolate=True, mask=None, maskParams=None, name='right_image', opacity=1, ori=0.0, pos=array([0.4, 0. ]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+40.9647 	EXP 	trial_sound: sampleRate = 44100
+40.9647 	EXP 	trial_sound: channels = None
+40.9684 	EXP 	Sound trial_sound set volume 1.000
+0.0821 	EXP 	Imported trials.csv as conditions, 4 conditions, 4 params
+0.0868 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'l_image': 'stimuli/dog.png', 'r_image': 'stimuli/pig.png', 'target_sound': 'stimuli/dog.wav', 'correct': 'stimuli/dog.png', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.1474 	WARNING 	t of last frame was 114.88ms (=1/8)
+0.1474 	EXP 	start_l_image: image = 'stimuli/dog.png'
+0.1474 	EXP 	start_r_image: image = 'stimuli/pig.png'
+0.1474 	EXP 	start_l_rect: autoDraw = True
+0.1474 	EXP 	start_r_rect: autoDraw = True
+0.1474 	EXP 	start_l_image: autoDraw = True
+0.1474 	EXP 	start_r_image: autoDraw = True
+0.1474 	EXP 	star: autoDraw = True
+0.6556 	DATA 	Mouse: Left button down, pos=(757,402)
+0.7331 	DATA 	Mouse:  Left button up, pos=(757,402)
+1.1644 	DATA 	Mouse: Left button down, pos=(737,431)
+1.2086 	EXP 	trial_sound: sampleRate = 48000
+1.2271 	INFO 	Resampled audio from 48000Hz to 44100Hz using method 'default'.
+1.2276 	EXP 	Sound trial_sound reached end of file
+1.2358 	EXP 	Playing sound trial_sound on speaker MacBook Pro Speakers
+1.2339 	WARNING 	t of last frame was 64.76ms (=1/15)
+1.2339 	EXP 	start_l_rect: autoDraw = False
+1.2339 	EXP 	start_r_rect: autoDraw = False
+1.2339 	EXP 	start_l_image: autoDraw = False
+1.2339 	EXP 	start_r_image: autoDraw = False
+1.2339 	EXP 	star: autoDraw = False
+1.2339 	EXP 	left_image: image = 'stimuli/dog.png'
+1.2339 	EXP 	right_image: image = 'stimuli/pig.png'
+1.2339 	EXP 	right_rectangle: autoDraw = True
+1.2339 	EXP 	left_rectangle: autoDraw = True
+1.2339 	EXP 	left_image: autoDraw = True
+1.2339 	EXP 	right_image: autoDraw = True
+1.2479 	DATA 	Mouse:  Left button up, pos=(736,431)
+2.7661 	DATA 	Mouse: Left button down, pos=(386,442)
+2.7801 	EXP 	Sound trial_sound paused
+2.7807 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'l_image': 'stimuli/penguin.png', 'r_image': 'stimuli/tiger.png', 'target_sound': 'stimuli/tiger.wav', 'correct': 'stimuli/tiger.png', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+2.8236 	WARNING 	t of last frame was 52.80ms (=1/18)
+2.8236 	EXP 	right_rectangle: autoDraw = False
+2.8236 	EXP 	left_rectangle: autoDraw = False
+2.8236 	EXP 	left_image: autoDraw = False
+2.8236 	EXP 	right_image: autoDraw = False
+2.8236 	EXP 	start_l_image: image = 'stimuli/penguin.png'
+2.8236 	EXP 	start_r_image: image = 'stimuli/tiger.png'
+2.8236 	EXP 	start_l_rect: autoDraw = True
+2.8236 	EXP 	start_r_rect: autoDraw = True
+2.8236 	EXP 	start_l_image: autoDraw = True
+2.8236 	EXP 	start_r_image: autoDraw = True
+2.8236 	EXP 	star: autoDraw = True
+2.8992 	DATA 	Mouse:  Left button up, pos=(386,442)
+3.4659 	DATA 	Mouse: Left button down, pos=(724,482)
+3.4952 	EXP 	trial_sound: sampleRate = 48000
+3.5033 	INFO 	Resampled audio from 48000Hz to 44100Hz using method 'default'.
+3.5039 	EXP 	Sound trial_sound reached end of file
+3.5154 	EXP 	Playing sound trial_sound on speaker MacBook Pro Speakers
+3.5090 	WARNING 	t of last frame was 43.63ms (=1/22)
+3.5090 	EXP 	start_l_rect: autoDraw = False
+3.5090 	EXP 	start_r_rect: autoDraw = False
+3.5090 	EXP 	start_l_image: autoDraw = False
+3.5090 	EXP 	start_r_image: autoDraw = False
+3.5090 	EXP 	star: autoDraw = False
+3.5090 	EXP 	left_image: image = 'stimuli/penguin.png'
+3.5090 	EXP 	right_image: image = 'stimuli/tiger.png'
+3.5090 	EXP 	right_rectangle: autoDraw = True
+3.5090 	EXP 	left_rectangle: autoDraw = True
+3.5090 	EXP 	left_image: autoDraw = True
+3.5090 	EXP 	right_image: autoDraw = True
+3.5644 	DATA 	Mouse:  Left button up, pos=(724,481)
+4.8498 	DATA 	Mouse: Left button down, pos=(1108,485)
+4.8655 	EXP 	Sound trial_sound paused
+4.8662 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'l_image': 'stimuli/pig.png', 'r_image': 'stimuli/dog.png', 'target_sound': 'stimuli/pig.wav', 'correct': 'stimuli/pig.png', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+4.9062 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+4.9061 	EXP 	right_rectangle: autoDraw = False
+4.9061 	EXP 	left_rectangle: autoDraw = False
+4.9061 	EXP 	left_image: autoDraw = False
+4.9061 	EXP 	right_image: autoDraw = False
+4.9061 	EXP 	start_l_image: image = 'stimuli/pig.png'
+4.9061 	EXP 	start_r_image: image = 'stimuli/dog.png'
+4.9061 	EXP 	start_l_rect: autoDraw = True
+4.9061 	EXP 	start_r_rect: autoDraw = True
+4.9061 	EXP 	start_l_image: autoDraw = True
+4.9061 	EXP 	start_r_image: autoDraw = True
+4.9061 	EXP 	star: autoDraw = True
+4.9829 	DATA 	Mouse:  Left button up, pos=(1108,485)
+5.6645 	DATA 	Mouse: Left button down, pos=(748,476)
+5.6984 	EXP 	trial_sound: sampleRate = 48000
+5.7064 	INFO 	Resampled audio from 48000Hz to 44100Hz using method 'default'.
+5.7069 	EXP 	Sound trial_sound reached end of file
+5.7190 	EXP 	Playing sound trial_sound on speaker MacBook Pro Speakers
+5.7113 	EXP 	start_l_rect: autoDraw = False
+5.7113 	EXP 	start_r_rect: autoDraw = False
+5.7113 	EXP 	start_l_image: autoDraw = False
+5.7113 	EXP 	start_r_image: autoDraw = False
+5.7113 	EXP 	star: autoDraw = False
+5.7113 	EXP 	left_image: image = 'stimuli/pig.png'
+5.7113 	EXP 	right_image: image = 'stimuli/dog.png'
+5.7113 	EXP 	right_rectangle: autoDraw = True
+5.7113 	EXP 	left_rectangle: autoDraw = True
+5.7113 	EXP 	left_image: autoDraw = True
+5.7113 	EXP 	right_image: autoDraw = True
+5.7479 	DATA 	Mouse:  Left button up, pos=(748,476)
+7.0980 	DATA 	Mouse: Left button down, pos=(430,499)
+7.1141 	EXP 	Sound trial_sound paused
+7.1148 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'l_image': 'stimuli/tiger.png', 'r_image': 'stimuli/penguin.png', 'target_sound': 'stimuli/penguin.wav', 'correct': 'stimuli/penguin.png', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+7.1515 	EXP 	right_rectangle: autoDraw = False
+7.1515 	EXP 	left_rectangle: autoDraw = False
+7.1515 	EXP 	left_image: autoDraw = False
+7.1515 	EXP 	right_image: autoDraw = False
+7.1515 	EXP 	start_l_image: image = 'stimuli/tiger.png'
+7.1515 	EXP 	start_r_image: image = 'stimuli/penguin.png'
+7.1515 	EXP 	start_l_rect: autoDraw = True
+7.1515 	EXP 	start_r_rect: autoDraw = True
+7.1515 	EXP 	start_l_image: autoDraw = True
+7.1515 	EXP 	start_r_image: autoDraw = True
+7.1515 	EXP 	star: autoDraw = True
+7.2327 	DATA 	Mouse:  Left button up, pos=(430,499)
+7.9143 	DATA 	Mouse: Left button down, pos=(704,463)
+7.9500 	EXP 	trial_sound: sampleRate = 48000
+7.9583 	INFO 	Resampled audio from 48000Hz to 44100Hz using method 'default'.
+7.9588 	EXP 	Sound trial_sound reached end of file
+7.9689 	EXP 	Playing sound trial_sound on speaker MacBook Pro Speakers
+7.9638 	EXP 	start_l_rect: autoDraw = False
+7.9638 	EXP 	start_r_rect: autoDraw = False
+7.9638 	EXP 	start_l_image: autoDraw = False
+7.9638 	EXP 	start_r_image: autoDraw = False
+7.9638 	EXP 	star: autoDraw = False
+7.9638 	EXP 	left_image: image = 'stimuli/tiger.png'
+7.9638 	EXP 	right_image: image = 'stimuli/penguin.png'
+7.9638 	EXP 	right_rectangle: autoDraw = True
+7.9638 	EXP 	left_rectangle: autoDraw = True
+7.9638 	EXP 	left_image: autoDraw = True
+7.9638 	EXP 	right_image: autoDraw = True
+8.0483 	DATA 	Mouse:  Left button up, pos=(704,463)
+9.2147 	DATA 	Mouse: Left button down, pos=(1040,484)
+9.2291 	EXP 	Sound trial_sound paused
+9.2349 	EXP 	right_rectangle: autoDraw = False
+9.2349 	EXP 	left_rectangle: autoDraw = False
+9.2349 	EXP 	left_image: autoDraw = False
+9.2349 	EXP 	right_image: autoDraw = False
+9.2350 	EXP 	animal words: status = STOPPED
+9.2404 	INFO 	saved data to '/Users/tiaragajjar/Desktop/lab/solo porject/data/15_animal words_2025-11-18_19h38.09.196.csv'
+9.2443 	INFO 	saved data to /Users/tiaragajjar/Desktop/lab/solo porject/data/15_animal words_2025-11-18_19h38.09.196.psydat
+9.8056 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
